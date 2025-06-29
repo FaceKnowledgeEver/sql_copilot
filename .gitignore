@@ -8,7 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
+
 # Data
 data/wikisql.csv
+data/spider/
+Old/
+
 # Models
-models/
+models/base_Phi2_model/
